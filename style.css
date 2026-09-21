@@ -2,8 +2,7 @@
 
 /* GLOBAL STYLES (MOBILE FIRST) */
 body {
-    display:grid
-    grid-template-columns:1fr;
+    display:grid;
     background-color: linen;
 }
 header {
@@ -86,13 +85,11 @@ header, footer {
 }
 @media screen and (min-width:600px){
     body {
-        grid-template-columns: 1fr 1fr;
         background-color:ghostwhite;
     }
 }
 @media screen and (min-width:800px) {
     body {
-        grid-template-columns: 1fr 1fr 1fr;
         background-color: whitesmoke;
     }
 }
