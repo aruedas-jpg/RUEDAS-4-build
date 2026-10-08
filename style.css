@@ -25,7 +25,7 @@ nav li {
   display: flex;
   padding: 1rem 1rem;
   margin: 1rem;
-  background-color: linen;
+  background-color: #faf0e6;
   justify-content: center;
 }
 nav a {
@@ -36,7 +36,7 @@ nav a {
   text-align: center;
 }
 nav a:hover {
-  background-color: lightsteelblue;
+  background-color: #b0c4de;
   color:white;
 }
 .card-row {
